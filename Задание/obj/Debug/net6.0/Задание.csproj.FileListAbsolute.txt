@@ -1,0 +1,15 @@
+C:\Users\РОСИЧ\Desktop\ДЗ\Задание\obj\Debug\net6.0\Задание.csproj.AssemblyReference.cache
+C:\Users\РОСИЧ\Desktop\ДЗ\Задание\obj\Debug\net6.0\Задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РОСИЧ\Desktop\ДЗ\Задание\obj\Debug\net6.0\Задание.AssemblyInfoInputs.cache
+C:\Users\РОСИЧ\Desktop\ДЗ\Задание\obj\Debug\net6.0\Задание.AssemblyInfo.cs
+C:\Users\РОСИЧ\Desktop\ДЗ\Задание\obj\Debug\net6.0\Задание.csproj.CoreCompileInputs.cache
+C:\Users\РОСИЧ\Desktop\ДЗ\Задание\bin\Debug\net6.0\Задание.exe
+C:\Users\РОСИЧ\Desktop\ДЗ\Задание\bin\Debug\net6.0\Задание.deps.json
+C:\Users\РОСИЧ\Desktop\ДЗ\Задание\bin\Debug\net6.0\Задание.runtimeconfig.json
+C:\Users\РОСИЧ\Desktop\ДЗ\Задание\bin\Debug\net6.0\Задание.dll
+C:\Users\РОСИЧ\Desktop\ДЗ\Задание\bin\Debug\net6.0\Задание.pdb
+C:\Users\РОСИЧ\Desktop\ДЗ\Задание\obj\Debug\net6.0\Задание.dll
+C:\Users\РОСИЧ\Desktop\ДЗ\Задание\obj\Debug\net6.0\refint\Задание.dll
+C:\Users\РОСИЧ\Desktop\ДЗ\Задание\obj\Debug\net6.0\Задание.pdb
+C:\Users\РОСИЧ\Desktop\ДЗ\Задание\obj\Debug\net6.0\Задание.genruntimeconfig.cache
+C:\Users\РОСИЧ\Desktop\ДЗ\Задание\obj\Debug\net6.0\ref\Задание.dll
