@@ -1,0 +1,6 @@
+﻿Method();
+
+void Method()
+{
+    
+}
