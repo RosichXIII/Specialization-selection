@@ -2,11 +2,14 @@
 
 void Method()
 {
-    string[] array = new string[15];
+    int arrayLength = 15;
+    string[] array = new string[arrayLength];
 
     FillArray(array);
     PrintArray(array);
-    ThreeCharSearch(array);
+
+    string[] arraySecond = new string[SecondArraySize(array)];
+    ThreeCharSearch(array, arraySecond);
 }
 
 void FillArray(string[] array)
@@ -34,14 +37,33 @@ void PrintArray(string[] array)
     Console.WriteLine();
 }
 
-void ThreeCharSearch(string[] array)
-{
-    Console.WriteLine("Резултьтат");
+int SecondArraySize(string[] array)
+{    
+    int count = 0;
+
     for (int i = 0; i < array.Length; i++)
     {
         if (array[i].Length <= 3)
         {
-            Console.Write(array[i] + "  ");
+            count++;
         }
+    }
+    Console.WriteLine("Размер второго массива: " + count);
+    return count;
+}
+
+void ThreeCharSearch(string[] array, string[] arraySecond)
+{
+    int i = 0;
+    Console.WriteLine("Результат");
+    
+    for (int j = 0; j < array.Length; j++)
+    {
+        if (array[j].Length <= 3)
+        {
+            arraySecond[i] = array[j];
+            Console.Write(arraySecond[i] + "  ");
+            i++;
+        }           
     }
 }
